@@ -126,5 +126,5 @@ File Structure:
 Contact:
 
 Have questions or feedback? Feel free to reach out or raise an issue in the repository:
-([url](https://github.com/Harikrishnan03/Datascience_Project(url)))
+[https://github.com/Harikrishnan03/Datascience_Project](url)
 
